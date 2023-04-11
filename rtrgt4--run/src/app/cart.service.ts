@@ -17,8 +17,8 @@ items: Product[] = [];
     return this.items;
   }
 
-  clearCart(): void {
-    this.items = [];
+  clearCart(): Product[] {
+    return this.items = [];
   }
 
   getShippingPrices() {
