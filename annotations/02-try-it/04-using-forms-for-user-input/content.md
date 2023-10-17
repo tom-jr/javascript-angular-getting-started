@@ -30,7 +30,7 @@ checkoutForm = this.formBuilder.group({
   }
 ~~~ 
 
-## Criar checkoutForm 
+## Criar checkoutForm
 Vamos usar os passos seguintes para adicionar o formulário 
 
 1. add o elemento form no fim __*cart.component.html*__. No el adicionaremos a property formGroup e como value sett a 
